@@ -17,3 +17,6 @@ IMPORTANT: The API keys have been removed for security reasons."
 
 ## DEMO
 ![demo_video_web_application-ezgif com-video-to-gif-converter(3)](https://github.com/user-attachments/assets/bfb8951a-73d7-4cc3-ac95-d44794752084)
+![Screenshot 2025-01-04 184152](https://github.com/user-attachments/assets/7ce4efd8-f747-4807-9615-d25349ff82d4)
+![image](https://github.com/user-attachments/assets/89658e0e-c839-4446-a453-0175d8c5c26f)
+![Screenshot 2025-01-04 181445](https://github.com/user-attachments/assets/ed6c04a7-4653-4b3b-a9b5-622c73a0f55a)
